@@ -22,7 +22,7 @@ StockTrends is a web application designed for tracking your favorite stocks. It 
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `npm install`.
-3. Start the application using `npm run d`.
+3. Start the application using `npm run dev`.
 
 ## How to Use
 
