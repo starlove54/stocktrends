@@ -24,6 +24,14 @@ StockTrends is a web application designed for tracking your favorite stocks. It 
 2. Install the required dependencies using `npm install`.
 3. Start the application using `npm run dev`.
 
+## Screenshots
+
+![Alt text](src/assets/S_1.png)
+![Alt text](src/assets/S_2.png)
+![Alt text](src/assets/S_3.png)
+![Alt text](src/assets/S_4.png)
+![Alt text](src/assets/S_5.png)
+
 ## How to Use
 
 1. Enter the stock symbol in the input field.
